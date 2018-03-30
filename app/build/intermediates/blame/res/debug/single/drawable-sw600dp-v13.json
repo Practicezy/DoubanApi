@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\AndroidWork\\DoubanApiTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_expand_holo_light.xml",
+        "source": "C:\\Users\\赵远\\.gradle\\caches\\transforms-1\\files-1.1\\expandableTextView-0.1.4.aar\\2b667a09ad989d6b1492ee52c8942710\\res\\drawable-sw600dp\\ic_expand_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidWork\\DoubanApiTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_collapse_holo_light.xml",
+        "source": "C:\\Users\\赵远\\.gradle\\caches\\transforms-1\\files-1.1\\expandableTextView-0.1.4.aar\\2b667a09ad989d6b1492ee52c8942710\\res\\drawable-sw600dp\\ic_collapse_holo_light.xml"
+    }
+]
